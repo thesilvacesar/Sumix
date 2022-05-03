@@ -1,6 +1,6 @@
-## Sumix
-
 ![Logo](https://i.imgur.com/Y8JKXig.png)
+
+![Screenshot](https://i.imgur.com/mKq36Bi.png)
 
 ### Simple GUI Checksum hash file
 
