@@ -9,14 +9,7 @@ namespace Sumix
             InitializeComponent();
         }
         
-        private Form history = new History();
         private Form settings = new Settings();
-
-        public static string Base64Encode(string plainText)
-        {
-            var plainTextBytes = System.Text.Encoding.UTF8.GetBytes(plainText);
-            return System.Convert.ToBase64String(plainTextBytes);
-        }
 
         private void openBtn_Click(object sender, EventArgs e)
         {

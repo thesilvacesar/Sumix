@@ -250,7 +250,6 @@
             this.restoreBtn.Size = new System.Drawing.Size(117, 30);
             this.restoreBtn.TabIndex = 13;
             this.restoreBtn.Text = "Restore session";
-            this.tips.SetToolTip(this.restoreBtn, "Open file...");
             this.restoreBtn.UseVisualStyleBackColor = false;
             this.restoreBtn.Click += new System.EventHandler(this.restoreBtn_Click);
             // 

@@ -133,9 +133,9 @@
             // 
             this.label1.Location = new System.Drawing.Point(12, 123);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(168, 25);
+            this.label1.Size = new System.Drawing.Size(109, 25);
             this.label1.TabIndex = 30;
-            this.label1.Text = "Default hash to compare";
+            this.label1.Text = "Default hash";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // algoDefaultBox
@@ -154,9 +154,9 @@
             "SHA 256",
             "SHA 384",
             "SHA 512"});
-            this.algoDefaultBox.Location = new System.Drawing.Point(186, 123);
+            this.algoDefaultBox.Location = new System.Drawing.Point(127, 123);
             this.algoDefaultBox.Name = "algoDefaultBox";
-            this.algoDefaultBox.Size = new System.Drawing.Size(134, 25);
+            this.algoDefaultBox.Size = new System.Drawing.Size(193, 25);
             this.algoDefaultBox.TabIndex = 42;
             // 
             // Settings

@@ -47,7 +47,7 @@ namespace Sumix.Classes
 
         public static string GetHashFileContent(string name, string content)
         {
-            return "*" + name + "*: " + content;
+            return content + "  " + name;
         }
 
     }
