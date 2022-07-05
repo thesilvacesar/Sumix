@@ -4,7 +4,7 @@
 
 ### Simple GUI Checksum hash file
 
-[By: Emily Silva](https://github.com/thesilvaemily) | [Download binary](https://github.com/thesilvaemily/Sumix/releases)
+[By: César Silva](https://github.com/thesilvacesar) | [Download binary](https://github.com/thesilvacesar/Sumix/releases)
 
 Features:
 
